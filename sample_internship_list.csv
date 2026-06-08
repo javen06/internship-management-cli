@@ -1,0 +1,14 @@
+id,title,description,requiredDegree,level,companyRepId,companyName,startDate,endDate,isApproved,isVisible,maxSlots
+1,CS Support Intern,Provide basic support for internal CS tools,Computer Science,BASIC,CPREP1,apple,2025-01-10T00:00:00,2026-03-10T00:00:00,true,true,1
+2,QA Testing Intern,Test mobile and web applications for bugs,Computer Science,BASIC,CPREP1,apple,2025-01-15T00:00:00,2026-03-20T00:00:00,true,true,6
+3,Data Analytics Intern,Analyse business data and create dashboards,Data Science & AI,INTERMEDIATE,CPREP1,apple,2025-02-01T00:00:00,2026-04-30T00:00:00,true,true,7
+4,Media Tech Support Intern,Support multimedia systems and lab equipment,Information Engineering & Media,BASIC,CPREP2,google,2025-01-20T00:00:00,2026-03-25T00:00:00,true,true,9
+5,Search Algorithms Intern,Assist in development of search features,Computer Science,ADVANCED,CPREP2,google,2025-03-01T00:00:00,2026-07-01T00:00:00,true,true,5
+6,Cloud Infrastructure Intern,Support cloud infrastructure operations,Computer Engineering,INTERMEDIATE,CPREP2,google,2025-02-15T00:00:00,2026-05-15T00:00:00,true,true,2
+7,Embedded Systems Intern,Assist in embedded systems development,Computer Engineering,BASIC,CPREP3,Microsoft,2025-01-25T00:00:00,2026-04-01T00:00:00,true,true,7
+8,Azure Cloud Intern,Work on Azure cloud services and tools,Computer Engineering,INTERMEDIATE,CPREP3,Microsoft,2025-03-01T00:00:00,2026-06-30T00:00:00,true,true,6
+9,Multimedia Content Intern,Support content workflows for media projects,Information Engineering & Media,BASIC,CPREP3,Microsoft,2025-02-10T00:00:00,2026-05-31T00:00:00,true,true,8
+10,Mobile App Developer Intern,Develop mobile applications for internal projects,Computer Science,INTERMEDIATE,emma@apple.com,apple,2025-02-20T00:00:00,2026-06-20T00:00:00,true,true,9
+11,AI Research Intern,Assist in AI model experimentation and evaluation,Data Science & AI,ADVANCED,david@google.com,google,2025-03-10T00:00:00,2026-08-10T00:00:00,true,true,4
+12,Backend Systems Intern,Develop and maintain backend services,Computer Science,INTERMEDIATE,Clisa@microsoft.com,Microsoft,2025-02-28T00:00:00,2026-06-30T00:00:00,true,false,7
+13,Cybersecurity Intern,Monitor and analyze security threats for Microsoft systems,Computer Science,ADVANCED,Clisa@microsoft.com,Microsoft,2025-12-15T00:00:00,2026-06-15T00:00:00,true,true,5

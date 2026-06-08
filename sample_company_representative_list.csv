@@ -1,0 +1,9 @@
+CompanyRepID,Name,CompanyName,Department,Position,Email,Status
+CPREP1,John tan,apple,Logistics,Manager,john@apple.com,APPROVED
+CPREP2,Sarah ng,google,HR,Staff,sarah@google.com,APPROVED
+CPREP3,Alex wong,Microsoft,Marketing,Executive,alex@microsoft.com,APPROVED
+emma@apple.com,Emma lim,apple,Engineering,Senior Developer,emma@apple.com,APPROVED
+david@google.com,David chen,google,Engineering,Tech Lead,david@google.com,PENDING
+Clisa@microsoft.com,Lisa toh,Microsoft,Finance,Analyst,lisa@microsoft.com,APPROVED
+michael@amazon.com,Michael lee,amazon,Sales,Representative,michael@amazon.com,REJECTED
+adamWang@microsoft.com,Adam Wang,Tesla,Engineering,Senior Developer,adamWang@microsoft.com,PENDING

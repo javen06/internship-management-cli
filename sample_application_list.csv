@@ -1,0 +1,12 @@
+ApplicationID,StudentID,InternshipID,Status,SubmittedAt,AcceptedByStudent,StudentWithdrawalRequested,CareerStaffWithdrawalAccepted
+1,U2310001A,1,PENDING,2025-01-15T09:30:00,false,false,false
+2,U2310001A,2,UNSUCCESSFUL,2025-01-20T10:15:00,false,false,false
+3,U2310002B,3,ACCEPTED,2025-02-05T14:20:00,true,false,false
+4,U2310002B,11,WITHDRAWN,2025-03-15T11:45:00,false,true,true
+5,U2310003C,6,ACCEPTED,2025-02-20T16:10:00,true,false,false
+6,U2310003C,7,WITHDRAWN,2025-02-01T10:00:00,false,true,true
+7,U2310003C,8,WITHDRAWN,2025-03-05T09:20:00,false,true,true
+8,U2310004D,4,PENDING,2025-01-25T08:30:00,false,true,false
+9,U2310004D,9,PENDING,2025-02-15T15:40:00,false,false,false
+10,U2310005E,10,ACCEPTED,2025-03-01T12:00:00,true,false,false
+11,U2310005E,5,WITHDRAWN,2025-03-10T13:25:00,false,true,true
